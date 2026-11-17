@@ -1,6 +1,7 @@
-def greet(name: str) -> str:
-    return f"Hello, {name}!"
+def one_plus_one() -> int:
+    a = 1 + 1
+    return a
 
 
 if __name__ == "__main__":
-    print(greet("World"))
+    print(one_plus_one())

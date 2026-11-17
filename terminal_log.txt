@@ -3,7 +3,7 @@ Python 3.13.5
 === git --version ===
 git version 2.56.1.windows.1
 === py src\hello.py ===
-Hello, World!
+2
 === pytest -v ===
 ============================= test session starts =============================
 platform win32 -- Python 3.13.5, pytest-9.2.0, pluggy-1.7.0 -- C:\Users\afktm\Documents\ast-analysis\.venv\Scripts\python.exe
@@ -11,6 +11,6 @@ cachedir: .pytest_cache
 rootdir: C:\Users\afktm\Documents\ast-analysis
 collecting ... collected 1 item
 
-tests/test_smoke.py::test_greet_returns_expected_string PASSED           [100%]
+tests/test_smoke.py::test_one_plus_one_returns_2 PASSED                  [100%]
 
-============================== 1 passed in 0.09s ==============================
+============================== 1 passed in 0.08s ==============================

@@ -36,4 +36,6 @@ ast-analysis/
 
 ## Thành viên
 - Vũ
-- Thanh
+- Thành
+
+Task 1 hoàn thành: đã thiết lập môi trường và smoke-test.
